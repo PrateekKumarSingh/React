@@ -2,7 +2,7 @@
 100 days of learning React JS
 
 
-## Good Reads
+## Resources
 
   ### Importing from Modules
   * [import statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
@@ -10,3 +10,4 @@
 
   ### State Management
   * [You Might Not Need Redux, by creator of Redux 'Dan Abramov'](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+  * [React Redux Crash course (YouTube.com)](https://www.youtube.com/watch?v=9jULHSe41ls)
