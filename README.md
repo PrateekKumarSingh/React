@@ -1,5 +1,5 @@
 # 100DaysOfReact
-100 days of learning React JS
+Daily learning logs, reference, projects, good-reads around React JS.
 
 
 ## Resources
