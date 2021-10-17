@@ -5,11 +5,13 @@ Daily learning logs, reference, projects, good-reads around React JS.
 ## Resources
 
   ### Importing from Modules
-  * [import statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-  * [using brackets with javascript import syntax (Stackoverflow.com)](https://stackoverflow.com/questions/31096597/using-brackets-with-javascript-import-syntax)
+  * [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+  * [Using brackets with javascript `import` syntax (Stackoverflow.com)](https://stackoverflow.com/questions/31096597/using-brackets-with-javascript-import-syntax)
 
   ### API Calls / HTTP Clients
-  * [How to use Axios with React](https://www.freecodecamp.org/news/how-to-use-axios-with-react/)
+  * [Using `fetch()` (MDN WebDocs)](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+  * [Introduction to `fetch()`](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+  * [How to use `axios` with React](https://www.freecodecamp.org/news/how-to-use-axios-with-react/)
 
   ### State Management
   * [What is Redux - Simply Explained! by @CodeBucks](https://dev.to/codebucks/what-is-redux-simply-explained-2ch7)
