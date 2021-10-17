@@ -7,7 +7,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
   ### React Primer (Basics)
   * [Understanding React's UI Rendering Process (YouTube.com)](https://youtu.be/i793Qm6kv3U)
   * [Understanding Rendering in React (Medium.com)](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i)
-      <br><br><img src="https://raw.githubusercontent.com/donavon/hook-flow/master/hook-flow.png" width="300">
+      <br><br><img src="https://raw.githubusercontent.com/donavon/hook-flow/master/hook-flow.png" width="400">
   
   ### Importing from Modules
   * [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
