@@ -9,6 +9,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
   * [[Article] Understanding Rendering in React (Medium.com)](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i)
       <br><br><img src="https://raw.githubusercontent.com/donavon/hook-flow/master/hook-flow.png" width="400">
   * [[Diagram] React Lifecycle methods](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+  * [[Animation] React's built-in lifecycle methods](https://www.linkedin.com/feed/update/urn:li:activity:6835813112130609152/)
   * [[Tutorial] React Lifecycle methods Tutorial with examples (Logrocket.com)](https://blog.logrocket.com/react-lifecycle-methods-tutorial-examples/)
   
   ### Importing from Modules
