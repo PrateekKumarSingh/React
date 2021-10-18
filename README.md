@@ -1,4 +1,4 @@
-# 100DaysOfReact
+# 100 Days Of React Learning
 Daily learning logs, reference, projects, good-reads around React JS.
 
 
