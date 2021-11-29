@@ -8,6 +8,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
   * [React Learning Roadmap](https://roadmap.sh/react)
 
   ### React Primer (Basics and Main Concepts)
+  * [[Article] Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
   * [[Article] Understanding React's UI Rendering Process (YouTube.com)](https://youtu.be/i793Qm6kv3U)
   * [[Article] Understanding Rendering in React (Medium.com)](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i)
       <br><br><img src="https://raw.githubusercontent.com/donavon/hook-flow/master/hook-flow.png" width="400">
