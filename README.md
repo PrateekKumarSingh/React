@@ -4,7 +4,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
 
 ## Resources
 
-  ## HTML
+  ### HTML
   * [HTML Colors/Palettes](http://colrd.com/palette/24070/)
 
   ### Learning Roadmap
