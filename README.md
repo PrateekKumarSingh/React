@@ -37,4 +37,4 @@ Daily learning logs, reference, projects, good-reads around React JS.
 
 
 ### General Topics
-* [Article][8 Miraculous Ways to Bolster Your React Apps](https://jsmanifest.com/8-miraculous-ways-to-bolster-your-react-apps/)
+* [[Article] 8 Miraculous Ways to Bolster Your React Apps](https://jsmanifest.com/8-miraculous-ways-to-bolster-your-react-apps/)
