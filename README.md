@@ -34,3 +34,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
   * [[Blog Post] You Might Not Need Redux, by creator of Redux 'Dan Abramov'](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
   * [[Video] React Redux Crash course (YouTube.com)](https://www.youtube.com/watch?v=9jULHSe41ls)
   * [[How To] Redux DevTools Extension (Browser Extension)](https://github.com/zalmoxisus/redux-devtools-extension#13-use-redux-devtools-extension-package-from-npm)
+
+
+### General Topics
+* [Article][8 Miraculous Ways to Bolster Your React Apps](https://jsmanifest.com/8-miraculous-ways-to-bolster-your-react-apps/)
