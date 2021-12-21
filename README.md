@@ -4,6 +4,9 @@ Daily learning logs, reference, projects, good-reads around React JS.
 
 ## Resources
 
+  ### Cheatsheets
+  * [Javascript Cheatsheets](https://www.linkedin.com/posts/sadanandpai_webdevelopment-javascript-webdevelopment-activity-6878911921370873856-4_jZ)
+
   ### HTML
   * [HTML Colors/Palettes](http://colrd.com/palette/24070/)
 
