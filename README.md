@@ -7,6 +7,9 @@ Daily learning logs, reference, projects, good-reads around React JS.
   ### Cheatsheets
   * [Javascript Cheatsheets](https://www.linkedin.com/posts/sadanandpai_webdevelopment-javascript-webdevelopment-activity-6878911921370873856-4_jZ)
 
+  ### Interview
+  * [Frontend Development Interview Checklist and Roadmap](https://github.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf)
+
   ### HTML
   * [HTML Colors/Palettes](http://colrd.com/palette/24070/)
 
