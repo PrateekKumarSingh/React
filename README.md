@@ -6,6 +6,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
 
   ### Cheatsheets
   * [Javascript Cheatsheets](https://www.linkedin.com/posts/sadanandpai_webdevelopment-javascript-webdevelopment-activity-6878911921370873856-4_jZ)
+  * [JavaScript concepts you need to know before getting into React](https://twitter.com/swastika0015/status/1482706720405213185)
 
   ### Interview
   * [Frontend Development Interview Checklist and Roadmap](https://github.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf)
