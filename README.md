@@ -17,7 +17,7 @@ Daily learning logs, reference, projects, good-reads around React JS.
   * [React Learning Roadmap](https://roadmap.sh/react)
 
   ### React Primer (Basics and Main Concepts)
-  * [[Twitter Thread]JavaScript concepts you need to know before getting into React](https://twitter.com/swastika0015/status/1482706720405213185)
+  * [[Twitter Thread] JavaScript concepts you need to know before getting into React](https://twitter.com/swastika0015/status/1482706720405213185)
   * [[Article] Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
   * [[Article] Understanding React's UI Rendering Process (YouTube.com)](https://youtu.be/i793Qm6kv3U)
   * [[Article] Understanding Rendering in React (Medium.com)](https://dev.to/teo_garcia/understanding-rendering-in-react-i5i)
