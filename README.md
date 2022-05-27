@@ -47,4 +47,4 @@ Daily learning logs, reference, projects, good-reads around React JS.
 * [[Article] 8 Miraculous Ways to Bolster Your React Apps](https://jsmanifest.com/8-miraculous-ways-to-bolster-your-react-apps/)
 
 ### Troubleshooting / Issues
-* [6 ways to resolve CORS errors in ReactJS](https://stackoverflow.com/questions/46337471/how-to-allow-cors-in-react-js)
+* [[StackOverflow] 6 ways to resolve CORS errors in ReactJS](https://stackoverflow.com/questions/46337471/how-to-allow-cors-in-react-js)
